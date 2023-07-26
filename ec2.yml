@@ -13,7 +13,7 @@ Resources:
       Tags:
         -
           Key: Appplication
-          Value:  robik-1 Server
+          Value:  robik Server
 
   WebAppSecurityGroup:
     Type: AWS::EC2::SecurityGroup
